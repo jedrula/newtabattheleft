@@ -6,4 +6,5 @@ Tired of creating a tab and dragging it all the way to the left (accidently drag
 this extension is available directly in the chrome store
 
 https://chrome.google.com/webstore/detail/create-new-tab-as-the-fir/fjpcdkkodbncdfmibfaboohgnkonceai?authuser=1
+
 create new tab as the first tab from the left
